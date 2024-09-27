@@ -1,4 +1,4 @@
-# SwitchStream - Stream with a Witty Switch
+# SwitchStream
 
 SwitchStream is a Next.js and Typescript-based live streaming platform, providing a feature-rich experience for both streamers and viewers. Leveraging Prisma and Vercel Postgres, with Livekit for stream integration and Clerk for authentication, SwitchStream is designed to offer a seamless and engaging streaming environment.
 
@@ -43,7 +43,3 @@ Follow these steps to get SwitchStream up and running:
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
-
-## Contact
-
-If you have any questions or suggestions, please feel free to contact Akshit Mittal at [mittalakshit4@gmail.com].
