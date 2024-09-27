@@ -22,7 +22,7 @@ Follow these steps to get StreamSync up and running:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/StreamSync.git
+   git clone https://github.com/sneha-510/StreamSync.git
    cd StreamSync
 
 2. **Install Dependencies:**
